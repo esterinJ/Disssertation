@@ -23,6 +23,9 @@ The comparative analysis reveals diverse approaches in political initiatives, de
 - **/ncsi**: Useful adaptation of the National Cyber Security Index.
 - **/general**: There are scripts that have been used to optimize, adapt and retrieve documents, as weel as perfroming selection and filtering on datasets used on the project.
 
+## Latex
+The Latex section is store on this repository: https://github.com/esterinJ/Kojtari_Cyber_Lessons_EU since there was needed an sync operation with _Overleaf_. 
+
 ## License
 
 This project is licensed under the GPL-3.0. Feel free to use, modify, and distribute the code and content within the terms of the license.
